@@ -1,0 +1,5 @@
+python-xstatic-rickshaw (1.5.0.2-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #758390)
+
+ -- Thomas Goirand <zigo@debian.org>  Sat, 16 Aug 2014 17:17:47 +0800
