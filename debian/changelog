@@ -1,3 +1,10 @@
+python-xstatic-rickshaw (1.5.0.2-2) unstable; urgency=medium
+
+  * Added (c) 2005-2010 Sam Stephenson in debian/copyright as per FTP masters
+    review.
+
+ -- Thomas Goirand <zigo@debian.org>  Wed, 10 Sep 2014 22:58:56 +0800
+
 python-xstatic-rickshaw (1.5.0.2-1) unstable; urgency=medium
 
   * Initial release. (Closes: #758390)
